@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria xmlns:s="autor_genero" xmlns:l="genero_libro">
+  <libro>
+    <titulo>El Código Da Vinci</titulo>
+    <l:genero>Thriller</l:genero>
+    <editorial>Planeta</editorial>
+    <isbn>978-84-08-02143-4</isbn>
+    <fecha_publicacion>2003-03-18</fecha_publicacion>
+    <autores>
+      <autor>
+        <nombre>Dan</nombre>
+        <apellido1>Brown</apellido1>
+        <apellido2></apellido2>
+        <s:genero>Masculino</s:genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro>
+    <titulo>Cien Años de Soledad</titulo>
+    <l:genero>Realismo mágico</l:genero>
+    <editorial>Editorial Sudamericana</editorial>
+    <isbn>978-84-339-5015-4</isbn>
+    <fecha_publicacion>1967-06-05</fecha_publicacion>
+    <autores>
+      <autor>
+        <nombre>Gabriel</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Márquez</apellido2>
+        <s:genero>Masculino</s:genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro>
+    <titulo>Harry Potter y la piedra filosofal</titulo>
+    <l:genero>Fantasía</l:genero>
+    <editorial>Salamandra</editorial>
+    <isbn>978-84-7888-853-3</isbn>
+    <fecha_publicacion>1997-06-26</fecha_publicacion>
+    <autores>
+      <autor>
+        <nombre>J.K.</nombre>
+        <apellido1>Rowling</apellido1>
+        <apellido2></apellido2>
+        <s:genero>Femenino</s:genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro>
+    <titulo>El Señor de los Anillos: La Comunidad del Anillo</titulo>
+    <l:genero>Fantasía épica</l:genero>
+    <editorial>Minotauro</editorial>
+    <isbn>978-84-450-0865-5</isbn>
+    <fecha_publicacion>1954-07-29</fecha_publicacion>
+    <autores>
+      <autor>
+        <nombre>J.R.R.</nombre>
+        <apellido1>Tolkien</apellido1>
+        <apellido2></apellido2>
+        <s:genero>Masculino</s:genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro>
+    <titulo>La Sombra del Viento</titulo>
+    <l:genero>Novela histórica</l:genero>
+    <editorial>Planeta</editorial>
+    <isbn>978-84-08-04300-0</isbn>
+    <fecha_publicacion>2001-11-03</fecha_publicacion>
+    <autores>
+      <autor>
+        <nombre>Carlos</nombre>
+        <apellido1>Ruiz</apellido1>
+        <apellido2>Zafón</apellido2>
+        <s:genero>Masculino</s:genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro>
+    <titulo>La Catedral del Mar</titulo>
+    <l:genero>Histórico</l:genero>
+    <editorial>Ediciones B</editorial>
+    <isbn>978-84-666-5271-7</isbn>
+    <fecha_publicacion>2006-03-01</fecha_publicacion>
+    <autores>
+      <autor>
+        <nombre>Ildefonso</nombre>
+        <apellido1>Falcones</apellido1>
+        <apellido2></apellido2>
+        <s:genero>Masculino</s:genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro>
+    <titulo>Don Quijote de la Mancha</titulo>
+    <l:genero>Novela clásica</l:genero>
+    <editorial>Editorial Espasa</editorial>
+    <isbn>978-84-670-0331-6</isbn>
+    <fecha_publicacion>1605-01-16</fecha_publicacion>
+    <autores>
+      <autor>
+        <nombre>Miguel</nombre>
+        <apellido1>Cervantes</apellido1>
+        <apellido2>Saavedra</apellido2>
+        <s:genero>Masculino</s:genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro>
+    <titulo>La Casa de los Espíritus</titulo>
+    <l:genero>Realismo mágico</l:genero>
+    <editorial>Editorial Plaza Janés</editorial>
+    <isbn>978-84-01-58605-3</isbn>
+    <fecha_publicacion>1982-11-01</fecha_publicacion>
+    <autores>
+      <autor>
+        <nombre>Isabel</nombre>
+        <apellido1>Allende</apellido1>
+        <apellido2></apellido2>
+        <s:genero>Femenino</s:genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro>
+    <titulo>Los Detectives Salvajes</titulo>
+    <l:genero>Novela contemporánea</l:genero>
+    <editorial>Anagrama</editorial>
+    <isbn>978-84-339-8235-3</isbn>
+    <fecha_publicacion>1998-06-15</fecha_publicacion>
+    <autores>
+      <autor>
+        <nombre>Roberto</nombre>
+        <apellido1>Bolaño</apellido1>
+        <apellido2></apellido2>
+        <s:genero>Masculino</s:genero>
+      </autor>
+    </autores>
+  </libro>
+
+  <libro>
+    <titulo>Patria</titulo>
+    <l:genero>Novela contemporánea</l:genero>
+    <editorial>Editorial Tusquets</editorial>
+    <isbn>978-84-8383-614-6</isbn>
+    <fecha_publicacion>2016-11-10</fecha_publicacion>
+    <autores>
+      <autor>
+        <nombre>Fernando</nombre>
+        <apellido1>Aramburu</apellido1>
+        <apellido2></apellido2>
+        <s:genero>Masculino</s:genero>
+      </autor>
+    </autores>
+  </libro>
+
+</libreria>

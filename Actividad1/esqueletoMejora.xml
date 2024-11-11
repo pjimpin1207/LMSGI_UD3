@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo xmlns:s="autor_genero" xmlns:l="genero_obra">
+  <obra>
+    <titulo></titulo>
+    <l:genero></l:genero>
+    <autor></autor>
+    <codigo></codigo>
+    <fecha_estreno></fecha_estreno>
+    <interpretes>
+      <interprete>
+        <nombre></nombre>
+        <apellido1></apellido1>
+        <apellido2></apellido2>
+        <s:genero></s:genero>
+      </interprete>
+    </interpretes>
+  </obra>
+</catalogo>
