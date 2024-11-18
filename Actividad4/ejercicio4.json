@@ -1,0 +1,84 @@
+{
+    "empleados": [
+      {
+        "id": 1,
+        "nombre": "Juan Carrasco",
+        "edad": 20,
+        "cargo": "Desarrollador Backend",
+        "salario": 1000,
+        "proyectos": [
+          {
+            "nombre": "Proyecto Alpha",
+            "fecha_inicio": "2023-05-01",
+            "tareas_asignadas": [
+              "Desarrollo de API REST",
+              "Optimización de base de datos",
+              "Implementación de autenticación"
+            ]
+          },
+          {
+            "nombre": "Proyecto Beta",
+            "fecha_inicio": "2024-01-15",
+            "tareas_asignadas": [
+              "Integración de sistemas",
+              "Desarrollo de microservicios"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Francisco Márquez",
+        "edad": 28,
+        "cargo": "Desarrollado Frontend",
+        "salario": 2000,
+        "proyectos": [
+          {
+            "nombre": "Proyecto Alpha",
+            "fecha_inicio": "2023-05-01",
+            "tareas_asignadas": [
+              "Diseño de la interfaz de usuario",
+              "Implementación de funcionalidades en React",
+              "Pruebas de usabilidad"
+            ]
+          },
+          {
+            "nombre": "Proyecto Gamma",
+            "fecha_inicio": "2024-02-10",
+            "tareas_asignadas": [
+              "Desarrollo de página de aterrizaje",
+              "Optimización de rendimiento",
+              "Integración con API externa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nombre": "Antonio Oviedo",
+        "edad": 35,
+        "cargo": "Project Manager",
+        "salario": 5000,
+        "proyectos": [
+          {
+            "nombre": "Proyecto Alpha",
+            "fecha_inicio": "2023-05-01",
+            "tareas_asignadas": [
+              "Gestión de equipo",
+              "Planificación de sprints",
+              "Comunicación con clientes"
+            ]
+          },
+          {
+            "nombre": "Proyecto Beta",
+            "fecha_inicio": "2024-01-15",
+            "tareas_asignadas": [
+              "Definición de requisitos",
+              "Supervisión de desarrollo",
+              "Entrega de reportes a la gerencia"
+            ]
+          }
+        ]
+      }
+    ]
+  }
